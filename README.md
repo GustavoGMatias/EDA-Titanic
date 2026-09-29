@@ -103,10 +103,6 @@ pip install pandas seaborn matplotlib numpy jupyter
 jupyter notebook eda_titanic.ipynb
 ```
 
-## Status
-
-🚧 Em desenvolvimento — algumas seções ainda podem receber ajustes e refinamentos.
-
 ## Autor
 
 Gustavo — estudante de Ciência da Computação (UFPB)
